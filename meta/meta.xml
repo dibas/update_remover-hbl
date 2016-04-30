@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Update remover</name>
+  <coder>libwiiu project, ported by dibas</coder>
+  <version>0.1</version>
+  <release_date>20160430120000</release_date>
+  <short_description>System Update Remover</short_description>
+  <long_description>Update remover deletes system updates pending for completion.
+  </long_description>
+</app>
